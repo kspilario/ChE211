@@ -17,4 +17,5 @@ plot([2.5 7],[0 4.5],'m','LineWidth',2, 'DisplayName','-2.5+x1-x2=0');
 plot([0 0],[0 7],'r','LineWidth',2,'DisplayName','x1 = 0')
 plot([0 7],[0 0],'b','LineWidth',2,'DisplayName','x2 = 0')
 scatter(2, 3, 30, 'k','filled','MarkerEdgeColor','w','DisplayName','Optimal Point')
+
 legend();
