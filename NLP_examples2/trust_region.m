@@ -44,7 +44,6 @@ while norm(x0-x1) > 1e-7
         else
             p = pS + (tau-1)*pd;
         end
-        disp(tau)
     end
 
     % Check for accuracy of approximation using rho
