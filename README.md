@@ -14,15 +14,15 @@ This repository contains lecture slides, Python codes (Jupyter notebooks and MAT
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
 
 - Week 1. Introduction
-- Week 2. Linear Programming
-- Week 3. Mixed-Integer Linear Programming
-- Week 4. NLP - First-order Methods
-- Week 5. NLP - Second-order Methods
-- Week 6. Optimization with DAEs - Part 1
-- Week 7. Optimization with DAEs - Part 2
-- Week 8. Zero-order Methods - Part 1
-- Week 9. Zero-order Methods - Part 2
-- Week 10. Graph Theory and Graph Algorithms
+- Week 2. [Linear Programming](/Week_02_LP)
+- Week 3. [Mixed-Integer Linear Programming](/Week_03_MILP)
+- Week 4. [NLP - First-order Methods](/Week_04_NLP_First-order_Methods)
+- Week 5. [NLP - Second-order Methods](/Week_05_NLP_Second-order_Methods)
+- Week 6. [Optimization with DAEs - Part 1](/Week_06_Opti_with_DAEs_Part1)
+- Week 7. [Optimization with DAEs - Part 2](/Week_07_Zero-order_Methods_Part1)
+- Week 8. [Zero-order Methods - Part 1](/Week_08_Zero-order_Methods_Part1)
+- Week 9. [Zero-order Methods - Part 2](/Week_09_Zero-order_Methods_Part2)
+- Week 10. [Graph Algorithms](/Week_10_Graph_Algorithms)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact Karl Ezra Pilario via kspilario@up.edu.ph. If any codes are not working on your terminal, let us know. :)
